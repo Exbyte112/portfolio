@@ -21,39 +21,32 @@ Hi, I'm Abubakar, a self-taught Python developer with over 4 years of experience
 - [Twitter](https://www.twitter.com/exbyte_dev)
 - [Upwork](https://www.upwork.com/freelancers/~013d702e11722b001a)
 
-Send me a message through [Formspree](https://formspree.io/f/mzbqabgn).
-
-<form action="https://formspree.io/f/mzbqabgn" method="POST">
-    <label for="name">Name</label>
-    <input type="text" name="name" id="name" placeholder="Your name" required>
-    <label for="email">Email</label>
-    <input type="email" name="email" id="email" placeholder="Your email" required>
-    <label for="message">Message</label>
-    <textarea name="message" id="message" placeholder="Your message" required></textarea>
-    <button type="submit">Send</button>
-</form>
-
 ---
 
 ## Portfolio
 
 ### Past Work
 
-[General utility bot](https://github.com/Exbyte112/ukubot)
-
-![General utility bot](https://i.imgur.com/yhmtC29.png)
-
----
-
-[Telegram to Discord Forwarder Bot](/pdf/sample_presentation.pdf)
-
-![Telegram to Discord Forwarder Bot](images/dummy_thumbnail.jpg?raw=true)
-
----
-
-[Project 3 Title](http://example.com/)
-
-![Project 3 Title](images/dummy_thumbnail.jpg?raw=true)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="flex: 1; min-width: 30%;">
+    <a href="https://github.com/Exbyte112/ukubot">
+      <img src="https://i.imgur.com/yhmtC29.png" alt="General utility bot" style="width: 100%;">
+      <p>General utility bot</p>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 30%;">
+    <a href="/pdf/sample_presentation.pdf">
+      <img src="images/dummy_thumbnail.jpg?raw=true" alt="Telegram to Discord Forwarder Bot" style="width: 100%;">
+      <p>Telegram to Discord Forwarder Bot</p>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 30%;">
+    <a href="http://example.com/">
+      <img src="images/dummy_thumbnail.jpg?raw=true" alt="Project 3 Title" style="width: 100%;">
+      <p>Project 3 Title</p>
+    </a>
+  </div>
+</div>
 
 ---
 
