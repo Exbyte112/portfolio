@@ -25,24 +25,24 @@ Hi, I'm Abubakar, a self-taught Python developer with over 4 years of experience
 
 ## Portfolio
 
-### Past Work
+### General Utility Bot
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="flex: 1; min-width: 30%;">
     <a href="https://github.com/Exbyte112/ukubot">
       <img src="https://i.imgur.com/yhmtC29.png" alt="General utility bot" style="width: 100%;">
-      <p>General utility bot</p>
+      <p>Urban dictionary command</p>
     </a>
   </div>
   <div style="flex: 1; min-width: 30%;">
-    <a href="/pdf/sample_presentation.pdf">
-      <img src="images/dummy_thumbnail.jpg?raw=true" alt="Telegram to Discord Forwarder Bot" style="width: 100%;">
-      <p>Telegram to Discord Forwarder Bot</p>
+    <a href="https://github.com/Exbyte112/ukubot">
+      <img src="https://i.imgur.com/UczSuN8.png" alt="Wolfram Alpha AI command" style="width: 100%;">
+      <p>Wolfram Alpha AI command</p>
     </a>
   </div>
   <div style="flex: 1; min-width: 30%;">
-    <a href="http://example.com/">
-      <img src="images/dummy_thumbnail.jpg?raw=true" alt="Project 3 Title" style="width: 100%;">
+    <a href="https://github.com/Exbyte112/ukubot">
+      <img src="https://i.imgur.com/NmjS4C0.png" alt="Language translation" style="width: 100%;">
       <p>Project 3 Title</p>
     </a>
   </div>
